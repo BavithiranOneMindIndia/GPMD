@@ -1,0 +1,4 @@
+com\stepdefinitions\GPMDstepdef.class
+com\cucumberOptions\TestRunner.class
+com\GPMDtest\superclass.class
+com\GPMDtest\MainpageforGPMDtest.class
